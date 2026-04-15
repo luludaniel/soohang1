@@ -6,6 +6,6 @@ int main() {
     float result;
     
     result = a / b; 
-    printf("5 나누기 2는 %f입니다.\n", result); // 출력 결과가 2.000000으로 나옴
+    printf("That 5 divided 2 is %.\n", result);
     return 0;
 }
