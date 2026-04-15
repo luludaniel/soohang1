@@ -3,7 +3,7 @@
 
 int main() {
     float height;
-    printf("키 입력: ");
+    printf("Insert your Ki: ");
     scanf("%d", &height);
     printf("당신의 키는 %fcm입니다.\n", height);
     return 0;
