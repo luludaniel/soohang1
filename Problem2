@@ -5,6 +5,6 @@ int main() {
     float height;
     printf("Insert your Ki: ");
     scanf("%d", &height);
-    printf("당신의 키는 %fcm입니다.\n", height);
+    printf("Your Ki is %fcm.\n", height);
     return 0;
 }
