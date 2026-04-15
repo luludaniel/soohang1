@@ -2,8 +2,8 @@
 
 int main() {
     int age;
-    printf("나이 입력: ");
+    printf("AGE: ");
     scanf("%d", age); 
-    printf("당신의 나이는 %d살입니다.\n", age);
+    printf("Your age is %d.\n", age);
     return 0;
 }
