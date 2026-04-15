@@ -2,8 +2,8 @@
 
 int main() {
     char grade;
-    printf("등급 입력: ");
+    printf("Insert your level: ");
     scanf("%d", &grade);
-    printf("당신의 등급은 %c입니다.\n", grade);
+    printf("Your level is %c.\n", grade);
     return 0;
 }
