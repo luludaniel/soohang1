@@ -4,6 +4,6 @@ int main() {
     int a = 10
     int b = 20;
     sum = a + b;
-    printf("합계는 %d\n", sum)
+    printf("Total is %d\n", sum)
     return 0;
 }
